@@ -25,28 +25,8 @@
           "currentName": "/tw/case",
           "children": [
             {
-              "name": "etc.",
-              "currentName": "/tw/case/etc.",
-              "children": []
-            },
-            {
-              "name": "1117.html",
-              "currentName": "/tw/case/1117.html",
-              "children": []
-            },
-            {
-              "name": "567.html",
-              "currentName": "/tw/case/567.html",
-              "children": []
-            },
-            {
-              "name": "626.html",
-              "currentName": "/tw/case/626.html",
-              "children": []
-            },
-            {
-              "name": "738.html",
-              "currentName": "/tw/case/738.html",
+              "name": "...",
+              "currentName": "/tw/case/...",
               "children": []
             }
           ]
@@ -86,350 +66,12 @@
               "currentName": "/tw/dsc/activity",
               "children": [
                 {
-                  "name": "WB002230",
-                  "currentName": "/tw/dsc/activity/WB002230",
+                  "name": "WB...",
+                  "currentName": "/tw/dsc/activity/WB...",
                   "children": [
                     {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/activity/WB002230/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002412",
-                  "currentName": "/tw/dsc/activity/WB002412",
-                  "children": [
-                    {
-                      "name": "WB00241202.html",
-                      "currentName": "/tw/dsc/activity/WB002412/WB00241202.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00241203.html",
-                      "currentName": "/tw/dsc/activity/WB002412/WB00241203.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002511",
-                  "currentName": "/tw/dsc/activity/WB002511",
-                  "children": [
-                    {
-                      "name": "WB00251101.htm",
-                      "currentName": "/tw/dsc/activity/WB002511/WB00251101.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002520",
-                  "currentName": "/tw/dsc/activity/WB002520",
-                  "children": [
-                    {
-                      "name": "WB00252002.htm",
-                      "currentName": "/tw/dsc/activity/WB002520/WB00252002.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002542",
-                  "currentName": "/tw/dsc/activity/WB002542",
-                  "children": [
-                    {
-                      "name": "WB00254202.htm",
-                      "currentName": "/tw/dsc/activity/WB002542/WB00254202.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002663",
-                  "currentName": "/tw/dsc/activity/WB002663",
-                  "children": [
-                    {
-                      "name": "WB00266302.htm",
-                      "currentName": "/tw/dsc/activity/WB002663/WB00266302.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002739",
-                  "currentName": "/tw/dsc/activity/WB002739",
-                  "children": [
-                    {
-                      "name": "WB00273901.htm",
-                      "currentName": "/tw/dsc/activity/WB002739/WB00273901.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00273903.htm",
-                      "currentName": "/tw/dsc/activity/WB002739/WB00273903.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002799",
-                  "currentName": "/tw/dsc/activity/WB002799",
-                  "children": [
-                    {
-                      "name": "WB00279901.htm",
-                      "currentName": "/tw/dsc/activity/WB002799/WB00279901.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002830",
-                  "currentName": "/tw/dsc/activity/WB002830",
-                  "children": [
-                    {
-                      "name": "WB00283001.htm",
-                      "currentName": "/tw/dsc/activity/WB002830/WB00283001.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002832",
-                  "currentName": "/tw/dsc/activity/WB002832",
-                  "children": [
-                    {
-                      "name": "WB00283201.htm",
-                      "currentName": "/tw/dsc/activity/WB002832/WB00283201.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002833",
-                  "currentName": "/tw/dsc/activity/WB002833",
-                  "children": [
-                    {
-                      "name": "WB00283301.htm",
-                      "currentName": "/tw/dsc/activity/WB002833/WB00283301.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00283303.htm",
-                      "currentName": "/tw/dsc/activity/WB002833/WB00283303.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00283305.htm",
-                      "currentName": "/tw/dsc/activity/WB002833/WB00283305.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002840",
-                  "currentName": "/tw/dsc/activity/WB002840",
-                  "children": [
-                    {
-                      "name": "WB00284001.htm",
-                      "currentName": "/tw/dsc/activity/WB002840/WB00284001.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002854",
-                  "currentName": "/tw/dsc/activity/WB002854",
-                  "children": [
-                    {
-                      "name": "WB00285401.htm",
-                      "currentName": "/tw/dsc/activity/WB002854/WB00285401.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002879",
-                  "currentName": "/tw/dsc/activity/WB002879",
-                  "children": [
-                    {
-                      "name": "WB00287906.htm",
-                      "currentName": "/tw/dsc/activity/WB002879/WB00287906.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002900",
-                  "currentName": "/tw/dsc/activity/WB002900",
-                  "children": [
-                    {
-                      "name": "WB00290002.htm",
-                      "currentName": "/tw/dsc/activity/WB002900/WB00290002.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002926",
-                  "currentName": "/tw/dsc/activity/WB002926",
-                  "children": [
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/activity/WB002926/web",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002928",
-                  "currentName": "/tw/dsc/activity/WB002928",
-                  "children": [
-                    {
-                      "name": "WB00292804.html",
-                      "currentName": "/tw/dsc/activity/WB002928/WB00292804.html",
-                      "children": []
-                    },
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/activity/WB002928/web",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "MFT",
-                  "currentName": "/tw/dsc/activity/MFT",
-                  "children": [
-                    {
-                      "name": "WB002958",
-                      "currentName": "/tw/dsc/activity/MFT/WB002958",
-                      "children": [
-                        {
-                          "name": "web",
-                          "currentName": "/tw/dsc/activity/MFT/WB002958/web",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003161",
-                      "currentName": "/tw/dsc/activity/MFT/WB003161",
-                      "children": [
-                        {
-                          "name": "web",
-                          "currentName": "/tw/dsc/activity/MFT/WB003161/web",
-                          "children": [
-                            {
-                              "name": "index.html",
-                              "currentName": "/tw/dsc/activity/MFT/WB003161/web/index.html",
-                              "children": []
-                            },
-                            {
-                              "name": "news.html",
-                              "currentName": "/tw/dsc/activity/MFT/WB003161/web/news.html",
-                              "children": []
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003154",
-                      "currentName": "/tw/dsc/activity/MFT/WB003154",
-                      "children": [
-                        {
-                          "name": "web",
-                          "currentName": "/tw/dsc/activity/MFT/WB003154/web",
-                          "children": [
-                            {
-                              "name": "index.html",
-                              "currentName": "/tw/dsc/activity/MFT/WB003154/web/index.html",
-                              "children": []
-                            },
-                            {
-                              "name": "news.html",
-                              "currentName": "/tw/dsc/activity/MFT/WB003154/web/news.html",
-                              "children": []
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003160",
-                      "currentName": "/tw/dsc/activity/MFT/WB003160",
-                      "children": [
-                        {
-                          "name": "WB00316001.html",
-                          "currentName": "/tw/dsc/activity/MFT/WB003160/WB00316001.html",
-                          "children": []
-                        },
-                        {
-                          "name": "WB00316004.html",
-                          "currentName": "/tw/dsc/activity/MFT/WB003160/WB00316004.html",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003218",
-                      "currentName": "/tw/dsc/activity/MFT/WB003218",
-                      "children": [
-                        {
-                          "name": "WB00321801.html",
-                          "currentName": "/tw/dsc/activity/MFT/WB003218/WB00321801.html",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB.....",
-                      "currentName": "/tw/dsc/activity/MFT/WB.....",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "RTL",
-                  "currentName": "/tw/dsc/activity/RTL",
-                  "children": [
-                    {
-                      "name": "WB002993",
-                      "currentName": "/tw/dsc/activity/RTL/WB002993",
-                      "children": [
-                        {
-                          "name": "web",
-                          "currentName": "/tw/dsc/activity/RTL/WB002993/web",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003007",
-                      "currentName": "/tw/dsc/activity/RTL/WB003007",
-                      "children": [
-                        {
-                          "name": "WB00300703_EDM.html",
-                          "currentName": "/tw/dsc/activity/RTL/WB003007/WB00300703_EDM.html",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB003204",
-                      "currentName": "/tw/dsc/activity/RTL/WB003204",
-                      "children": [
-                        {
-                          "name": "WB00320404.html",
-                          "currentName": "/tw/dsc/activity/RTL/WB003204/WB00320404.html",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB...",
-                      "currentName": "/tw/dsc/activity/RTL/WB...",
+                      "name": "...",
+                      "currentName": "/tw/dsc/activity/WB.../...",
                       "children": []
                     }
                   ]
@@ -437,7 +79,19 @@
                 {
                   "name": "...",
                   "currentName": "/tw/dsc/activity/...",
-                  "children": []
+                  "children": [
+                    {
+                      "name": "WB...",
+                      "currentName": "/tw/dsc/activity/.../WB...",
+                      "children": [
+                        {
+                          "name": "...",
+                          "currentName": "/tw/dsc/activity/.../WB.../...",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -464,37 +118,16 @@
                           "children": []
                         }
                       ]
-                    },
-                    {
-                      "name": "WB00234401.html",
-                      "currentName": "/tw/dsc/event/WB002344/WB00234401.html",
-                      "children": []
                     }
                   ]
                 },
                 {
-                  "name": "WB002504",
-                  "currentName": "/tw/dsc/event/WB002504",
+                  "name": "WB...",
+                  "currentName": "/tw/dsc/event/WB...",
                   "children": [
                     {
-                      "name": "WB00250401.htm",
-                      "currentName": "/tw/dsc/event/WB002504/WB00250401.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "images",
-                      "currentName": "/tw/dsc/event/WB002504/images",
-                      "children": [
-                        {
-                          "name": "201409Business_Administration.pdf",
-                          "currentName": "/tw/dsc/event/WB002504/images/201409Business_Administration.pdf",
-                          "children": []
-                        }
-                      ]
-                    },
-                    {
-                      "name": "WB00250402.htm",
-                      "currentName": "/tw/dsc/event/WB002504/WB00250402.htm",
+                      "name": "...",
+                      "currentName": "/tw/dsc/event/WB.../...",
                       "children": []
                     }
                   ]
@@ -506,17 +139,6 @@
                     {
                       "name": "2022081501.html",
                       "currentName": "/tw/dsc/event/NOTICE/2022081501.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002841",
-                  "currentName": "/tw/dsc/event/WB002841",
-                  "children": [
-                    {
-                      "name": "WB00284101.htm",
-                      "currentName": "/tw/dsc/event/WB002841/WB00284101.htm",
                       "children": []
                     }
                   ]
@@ -546,57 +168,25 @@
                           "children": []
                         }
                       ]
-                    },
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/marketing/WB002838/web",
-                      "children": [
-                        {
-                          "name": "03",
-                          "currentName": "/tw/dsc/marketing/WB002838/web/03",
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "WB003008",
-                  "currentName": "/tw/dsc/marketing/WB003008",
-                  "children": [
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/marketing/WB003008/web",
-                      "children": [
-                        {
-                          "name": "01",
-                          "currentName": "/tw/dsc/marketing/WB003008/web/01",
-                          "children": []
-                        }
-                      ]
                     }
                   ]
                 },
                 {
                   "name": "WB...",
                   "currentName": "/tw/dsc/marketing/WB...",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "pdf",
-              "currentName": "/tw/dsc/pdf",
-              "children": [
-                {
-                  "name": "%E9%BC%8E%E6%96%B0%E9%9B%BB%E8%85%A6-ITO-Service.pdf",
-                  "currentName": "/tw/dsc/pdf/%E9%BC%8E%E6%96%B0%E9%9B%BB%E8%85%A6-ITO-Service.pdf",
-                  "children": []
-                },
-                {
-                  "name": "鼎新電腦-ITO-Service.pdf",
-                  "currentName": "/tw/dsc/pdf/鼎新電腦-ITO-Service.pdf",
-                  "children": []
+                  "children": [
+                    {
+                      "name": "...",
+                      "currentName": "/tw/dsc/marketing/WB.../...",
+                      "children": [
+                        {
+                          "name": "...",
+                          "currentName": "/tw/dsc/marketing/WB.../.../...",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -612,48 +202,16 @@
                       "name": "index",
                       "currentName": "/tw/dsc/project/WB002940/index",
                       "children": []
-                    },
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/project/WB002940/index.html",
-                      "children": []
                     }
                   ]
                 },
                 {
-                  "name": "apms",
-                  "currentName": "/tw/dsc/project/apms",
+                  "name": "...",
+                  "currentName": "/tw/dsc/project/...",
                   "children": [
                     {
-                      "name": "index",
-                      "currentName": "/tw/dsc/project/apms/index",
-                      "children": []
-                    },
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/project/apms/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "digiwinathena",
-                  "currentName": "/tw/dsc/project/digiwinathena",
-                  "children": [
-                    {
-                      "name": "index",
-                      "currentName": "/tw/dsc/project/digiwinathena/index",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "digiwinmake",
-                  "currentName": "/tw/dsc/project/digiwinmake",
-                  "children": [
-                    {
-                      "name": "digiwinmake.html",
-                      "currentName": "/tw/dsc/project/digiwinmake/digiwinmake.html",
+                      "name": "...",
+                      "currentName": "/tw/dsc/project/.../...",
                       "children": []
                     }
                   ]
@@ -663,56 +221,8 @@
                   "currentName": "/tw/dsc/project/ESG",
                   "children": [
                     {
-                      "name": "DEI.html",
-                      "currentName": "/tw/dsc/project/ESG/DEI.html",
-                      "children": []
-                    },
-                    {
                       "name": "index.html",
                       "currentName": "/tw/dsc/project/ESG/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "FRC",
-                  "currentName": "/tw/dsc/project/FRC",
-                  "children": [
-                    {
-                      "name": "index",
-                      "currentName": "/tw/dsc/project/FRC/index",
-                      "children": []
-                    },
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/project/FRC/index.html",
-                      "children": []
-                    },
-                    {
-                      "name": "operate.html",
-                      "currentName": "/tw/dsc/project/FRC/operate.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "ServiceCloud",
-                  "currentName": "/tw/dsc/project/ServiceCloud",
-                  "children": [
-                    {
-                      "name": "ServiceCloud.html",
-                      "currentName": "/tw/dsc/project/ServiceCloud/ServiceCloud.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "sFWR",
-                  "currentName": "/tw/dsc/project/sFWR",
-                  "children": [
-                    {
-                      "name": "sFWR.html",
-                      "currentName": "/tw/dsc/project/sFWR/sFWR.html",
                       "children": []
                     }
                   ]
@@ -724,61 +234,17 @@
               "currentName": "/tw/dsc/service",
               "children": [
                 {
-                  "name": "WB002588",
-                  "currentName": "/tw/dsc/service/WB002588",
-                  "children": [
-                    {
-                      "name": "WB00258801.html",
-                      "currentName": "/tw/dsc/service/WB002588/WB00258801.html",
-                      "children": []
-                    }
-                  ]
+                  "name": "WB...",
+                  "currentName": "/tw/dsc/service/WB...",
+                  "children": []
                 },
                 {
-                  "name": "WB002736",
-                  "currentName": "/tw/dsc/service/WB002736",
+                  "name": "...",
+                  "currentName": "/tw/dsc/service/...",
                   "children": [
                     {
-                      "name": "WB00273601.html",
-                      "currentName": "/tw/dsc/service/WB002736/WB00273601.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00273601",
-                      "currentName": "/tw/dsc/service/WB002736/WB00273601",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00273601_repair",
-                      "currentName": "/tw/dsc/service/WB002736/WB00273601_repair",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002903",
-                  "currentName": "/tw/dsc/service/WB002903",
-                  "children": [
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/service/WB002903/web",
-                      "children": [
-                        {
-                          "name": "WB00290301_index.htm",
-                          "currentName": "/tw/dsc/service/WB002903/web/WB00290301_index.htm",
-                          "children": []
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "WB003566",
-                  "currentName": "/tw/dsc/service/WB003566",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/service/WB003566/index.html",
+                      "name": "...",
+                      "currentName": "/tw/dsc/service/.../...",
                       "children": []
                     }
                   ]
@@ -795,128 +261,12 @@
               "currentName": "/tw/dsc/solution",
               "children": [
                 {
-                  "name": "WB002513",
-                  "currentName": "/tw/dsc/solution/WB002513",
+                  "name": "WB...",
+                  "currentName": "/tw/dsc/solution/WB...",
                   "children": [
-                    {
-                      "name": "WB00251301_seminar",
-                      "currentName": "/tw/dsc/solution/WB002513/WB00251301_seminar",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00251301",
-                      "currentName": "/tw/dsc/solution/WB002513/WB00251301",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00251301.html",
-                      "currentName": "/tw/dsc/solution/WB002513/WB00251301.html",
-                      "children": []
-                    },
                     {
                       "name": "...",
-                      "currentName": "/tw/dsc/solution/WB002513/...",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002521",
-                  "currentName": "/tw/dsc/solution/WB002521",
-                  "children": [
-                    {
-                      "name": "WB00252103.htm",
-                      "currentName": "/tw/dsc/solution/WB002521/WB00252103.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002595",
-                  "currentName": "/tw/dsc/solution/WB002595",
-                  "children": [
-                    {
-                      "name": "WB00259501.htm",
-                      "currentName": "/tw/dsc/solution/WB002595/WB00259501.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002639",
-                  "currentName": "/tw/dsc/solution/WB002639",
-                  "children": [
-                    {
-                      "name": "WB00263901.htm",
-                      "currentName": "/tw/dsc/solution/WB002639/WB00263901.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00263901_6.htm",
-                      "currentName": "/tw/dsc/solution/WB002639/WB00263901_6.htm",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002675",
-                  "currentName": "/tw/dsc/solution/WB002675",
-                  "children": [
-                    {
-                      "name": "WB00267501_4.htm",
-                      "currentName": "/tw/dsc/solution/WB002675/WB00267501_4.htm",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00267501_4.html",
-                      "currentName": "/tw/dsc/solution/WB002675/WB00267501_4.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002783",
-                  "currentName": "/tw/dsc/solution/WB002783",
-                  "children": [
-                    {
-                      "name": "WB00278301.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00278301_channelArrange.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301_channelArrange.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00278301_customized.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301_customized.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00278301_factoryLogistics.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301_factoryLogistics.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00278301_factoryManage.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301_factoryManage.html",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00278301_order.html",
-                      "currentName": "/tw/dsc/solution/WB002783/WB00278301_order.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB002839",
-                  "currentName": "/tw/dsc/solution/WB002839",
-                  "children": [
-                    {
-                      "name": "WB00283901.html",
-                      "currentName": "/tw/dsc/solution/WB002839/WB00283901.html",
+                      "currentName": "/tw/dsc/solution/WB.../...",
                       "children": []
                     }
                   ]
@@ -926,28 +276,8 @@
                   "currentName": "/tw/dsc/solution/article",
                   "children": [
                     {
-                      "name": "defense",
-                      "currentName": "/tw/dsc/solution/article/defense",
-                      "children": []
-                    },
-                    {
-                      "name": "informationsecurity",
-                      "currentName": "/tw/dsc/solution/article/informationsecurity",
-                      "children": []
-                    },
-                    {
-                      "name": "new",
-                      "currentName": "/tw/dsc/solution/article/new",
-                      "children": []
-                    },
-                    {
-                      "name": "securityorganization",
-                      "currentName": "/tw/dsc/solution/article/securityorganization",
-                      "children": []
-                    },
-                    {
-                      "name": "securityresults",
-                      "currentName": "/tw/dsc/solution/article/securityresults",
+                      "name": "...",
+                      "currentName": "/tw/dsc/solution/article/...",
                       "children": []
                     }
                   ]
@@ -960,49 +290,8 @@
                       "name": "index",
                       "currentName": "/tw/dsc/solution/semiconductor/index",
                       "children": []
-                    },
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/solution/semiconductor/index.html",
-                      "children": []
-                    },
-                    {
-                      "name": "semiconductorBT",
-                      "currentName": "/tw/dsc/solution/semiconductor/semiconductorBT",
-                      "children": []
-                    },
-                    {
-                      "name": "semiconductorMF",
-                      "currentName": "/tw/dsc/solution/semiconductor/semiconductorMF",
-                      "children": []
                     }
                   ]
-                },
-                {
-                  "name": "WB002476",
-                  "currentName": "/tw/dsc/solution/WB002476",
-                  "children": [
-                    {
-                      "name": "industry",
-                      "currentName": "/tw/dsc/solution/WB002476/industry",
-                      "children": []
-                    },
-                    {
-                      "name": "WB00247601",
-                      "currentName": "/tw/dsc/solution/WB002476/WB00247601",
-                      "children": []
-                    },
-                    {
-                      "name": "...",
-                      "currentName": "/tw/dsc/solution/WB002476/...",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "WB...",
-                  "currentName": "/tw/dsc/solution/WB...",
-                  "children": []
                 }
               ]
             },
@@ -1028,18 +317,8 @@
               "currentName": "/tw/dsc/diagnosis",
               "children": [
                 {
-                  "name": "01",
-                  "currentName": "/tw/dsc/diagnosis/01",
-                  "children": []
-                },
-                {
-                  "name": "04",
-                  "currentName": "/tw/dsc/diagnosis/04",
-                  "children": []
-                },
-                {
-                  "name": "05",
-                  "currentName": "/tw/dsc/diagnosis/05",
+                  "name": "...",
+                  "currentName": "/tw/dsc/diagnosis/...",
                   "children": []
                 }
               ]
@@ -1053,23 +332,8 @@
                   "currentName": "/tw/dsc/hr/WB003024",
                   "children": [
                     {
-                      "name": "CS",
-                      "currentName": "/tw/dsc/hr/WB003024/CS",
-                      "children": []
-                    },
-                    {
-                      "name": "MT",
-                      "currentName": "/tw/dsc/hr/WB003024/MT",
-                      "children": []
-                    },
-                    {
-                      "name": "SALES",
-                      "currentName": "/tw/dsc/hr/WB003024/SALES",
-                      "children": []
-                    },
-                    {
-                      "name": "web",
-                      "currentName": "/tw/dsc/hr/WB003024/web",
+                      "name": "...",
+                      "currentName": "/tw/dsc/hr/WB003024/...",
                       "children": []
                     }
                   ]
@@ -1081,13 +345,8 @@
               "currentName": "/tw/dsc/industry4",
               "children": [
                 {
-                  "name": "smartFactory.html",
-                  "currentName": "/tw/dsc/industry4/smartFactory.html",
-                  "children": []
-                },
-                {
-                  "name": "smartManufactur.html",
-                  "currentName": "/tw/dsc/industry4/smartManufactur.html",
+                  "name": "...",
+                  "currentName": "/tw/dsc/industry4/...",
                   "children": []
                 }
               ]
@@ -1108,56 +367,12 @@
               "currentName": "/tw/dsc/METIS",
               "children": [
                 {
-                  "name": "AIassist",
-                  "currentName": "/tw/dsc/METIS/AIassist",
+                  "name": "...",
+                  "currentName": "/tw/dsc/METIS/...",
                   "children": [
                     {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/METIS/AIassist/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "BPM",
-                  "currentName": "/tw/dsc/METIS/BPM",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/METIS/BPM/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "ChatFile",
-                  "currentName": "/tw/dsc/METIS/ChatFile",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/METIS/ChatFile/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "FCI",
-                  "currentName": "/tw/dsc/METIS/FCI",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/METIS/FCI/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "web",
-                  "currentName": "/tw/dsc/METIS/web",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/METIS/web/index.html",
+                      "name": "...",
+                      "currentName": "/tw/dsc/METIS/.../...",
                       "children": []
                     }
                   ]
@@ -1165,16 +380,16 @@
               ]
             },
             {
-              "name": "OT-EEC",
-              "currentName": "/tw/dsc/OT-EEC",
+              "name": "OT-xxx",
+              "currentName": "/tw/dsc/OT-xxx",
               "children": [
                 {
-                  "name": "01",
-                  "currentName": "/tw/dsc/OT-EEC/01",
+                  "name": "xx",
+                  "currentName": "/tw/dsc/OT-xxx/xx",
                   "children": [
                     {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/OT-EEC/01/index.html",
+                      "name": "xxx",
+                      "currentName": "/tw/dsc/OT-xxx/xx/xxx",
                       "children": []
                     }
                   ]
@@ -1182,74 +397,13 @@
               ]
             },
             {
-              "name": "OT-IaaS",
-              "currentName": "/tw/dsc/OT-IaaS",
+              "name": "pdf",
+              "currentName": "/tw/dsc/pdf",
               "children": [
                 {
-                  "name": "01",
-                  "currentName": "/tw/dsc/OT-IaaS/01",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/OT-IaaS/01/index.html",
-                      "children": []
-                    }
-                  ]
-                },
-                {
-                  "name": "01_3",
-                  "currentName": "/tw/dsc/OT-IaaS/01_3",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/OT-IaaS/01_3/index.html",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "OT-OMS",
-              "currentName": "/tw/dsc/OT-OMS",
-              "children": [
-                {
-                  "name": "01",
-                  "currentName": "/tw/dsc/OT-OMS/01",
-                  "children": [
-                    {
-                      "name": "CF.html",
-                      "currentName": "/tw/dsc/OT-OMS/01/CF.html",
-                      "children": []
-                    },
-                    {
-                      "name": "CFV.html",
-                      "currentName": "/tw/dsc/OT-OMS/01/CFV.html",
-                      "children": []
-                    },
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/OT-OMS/01/index.html",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "OT-ROBOT",
-              "currentName": "/tw/dsc/OT-ROBOT",
-              "children": [
-                {
-                  "name": "01",
-                  "currentName": "/tw/dsc/OT-ROBOT/01",
-                  "children": [
-                    {
-                      "name": "index.html",
-                      "currentName": "/tw/dsc/OT-ROBOT/01/index.html",
-                      "children": []
-                    }
-                  ]
+                  "name": "鼎新電腦-ITO-Service.pdf",
+                  "currentName": "/tw/dsc/pdf/鼎新電腦-ITO-Service.pdf",
+                  "children": []
                 }
               ]
             }
@@ -1265,38 +419,13 @@
               "children": []
             },
             {
-              "name": "blog_bom",
-              "currentName": "/tw/ERP/blog_bom",
-              "children": []
-            },
-            {
-              "name": "blog_manu",
-              "currentName": "/tw/ERP/blog_manu",
-              "children": []
-            },
-            {
               "name": "erp-all.html",
               "currentName": "/tw/ERP/erp-all.html",
               "children": []
             },
             {
-              "name": "financial.html",
-              "currentName": "/tw/ERP/financial.html",
-              "children": []
-            },
-            {
-              "name": "inventory.html",
-              "currentName": "/tw/ERP/inventory.html",
-              "children": []
-            },
-            {
-              "name": "inventory_man.html",
-              "currentName": "/tw/ERP/inventory_man.html",
-              "children": []
-            },
-            {
-              "name": "manufacture.html",
-              "currentName": "/tw/ERP/manufacture.html",
+              "name": "...",
+              "currentName": "/tw/ERP/...",
               "children": []
             }
           ]
@@ -1331,11 +460,6 @@
                           "name": "1202.html",
                           "currentName": "/tw/portal/page/index/id/1202.html",
                           "children": []
-                        },
-                        {
-                          "name": "dscmaz@digiwin.com",
-                          "currentName": "/tw/portal/page/index/id/dscmaz@digiwin.com",
-                          "children": []
                         }
                       ]
                     }
@@ -1361,38 +485,8 @@
                       "currentName": "/tw/portal/article/dolike/id",
                       "children": [
                         {
-                          "name": "696.html",
-                          "currentName": "/tw/portal/article/dolike/id/696.html",
-                          "children": []
-                        },
-                        {
-                          "name": "701.html",
-                          "currentName": "/tw/portal/article/dolike/id/701.html",
-                          "children": []
-                        },
-                        {
-                          "name": "706.html",
-                          "currentName": "/tw/portal/article/dolike/id/706.html",
-                          "children": []
-                        },
-                        {
-                          "name": "708.html",
-                          "currentName": "/tw/portal/article/dolike/id/708.html",
-                          "children": []
-                        },
-                        {
-                          "name": "720.html",
-                          "currentName": "/tw/portal/article/dolike/id/720.html",
-                          "children": []
-                        },
-                        {
-                          "name": "723.html",
-                          "currentName": "/tw/portal/article/dolike/id/723.html",
-                          "children": []
-                        },
-                        {
-                          "name": "726.html",
-                          "currentName": "/tw/portal/article/dolike/id/726.html",
+                          "name": "...",
+                          "currentName": "/tw/portal/article/dolike/id/...",
                           "children": []
                         }
                       ]
@@ -1408,75 +502,16 @@
                       "currentName": "/tw/portal/article/index/id",
                       "children": [
                         {
-                          "name": "696.html",
-                          "currentName": "/tw/portal/article/index/id/696.html",
-                          "children": []
-                        },
-                        {
-                          "name": "701.html",
-                          "currentName": "/tw/portal/article/index/id/701.html",
-                          "children": []
-                        },
-                        {
-                          "name": "706.html",
-                          "currentName": "/tw/portal/article/index/id/706.html",
-                          "children": []
-                        },
-                        {
-                          "name": "708.html",
-                          "currentName": "/tw/portal/article/index/id/708.html",
-                          "children": []
-                        },
-                        {
-                          "name": "720",
-                          "currentName": "/tw/portal/article/index/id/720",
+                          "name": "...",
+                          "currentName": "/tw/portal/article/index/id/...",
                           "children": [
                             {
                               "name": "cid",
-                              "currentName": "/tw/portal/article/index/id/720/cid",
+                              "currentName": "/tw/portal/article/index/id/.../cid",
                               "children": [
                                 {
                                   "name": "42.html",
-                                  "currentName": "/tw/portal/article/index/id/720/cid/42.html",
-                                  "children": []
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "name": "723",
-                          "currentName": "/tw/portal/article/index/id/723",
-                          "children": [
-                            {
-                              "name": "cid",
-                              "currentName": "/tw/portal/article/index/id/723/cid",
-                              "children": [
-                                {
-                                  "name": "42.html",
-                                  "currentName": "/tw/portal/article/index/id/723/cid/42.html",
-                                  "children": []
-                                }
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "name": "726.html",
-                          "currentName": "/tw/portal/article/index/id/726.html",
-                          "children": []
-                        },
-                        {
-                          "name": "726",
-                          "currentName": "/tw/portal/article/index/id/726",
-                          "children": [
-                            {
-                              "name": "cid",
-                              "currentName": "/tw/portal/article/index/id/726/cid",
-                              "children": [
-                                {
-                                  "name": "42.html",
-                                  "currentName": "/tw/portal/article/index/id/726/cid/42.html",
+                                  "currentName": "/tw/portal/article/index/id/.../cid/42.html",
                                   "children": []
                                 }
                               ]
@@ -1501,82 +536,12 @@
               "children": []
             },
             {
-              "name": "1832.html",
-              "currentName": "/tw/software/1832.html",
-              "children": []
-            },
-            {
-              "name": "2063.html",
-              "currentName": "/tw/software/2063.html",
-              "children": []
-            },
-            {
-              "name": "2272.html",
-              "currentName": "/tw/software/2272.html",
-              "children": []
-            },
-            {
-              "name": "aps",
-              "currentName": "/tw/software/aps",
+              "name": "...",
+              "currentName": "/tw/software/...",
               "children": [
                 {
-                  "name": "aps.html",
-                  "currentName": "/tw/software/aps/aps.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "DeviceCloud",
-              "currentName": "/tw/software/DeviceCloud",
-              "children": [
-                {
-                  "name": "DeviceCloud.html",
-                  "currentName": "/tw/software/DeviceCloud/DeviceCloud.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "DOP",
-              "currentName": "/tw/software/DOP",
-              "children": [
-                {
-                  "name": "DOP.html",
-                  "currentName": "/tw/software/DOP/DOP.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "iiappcbe",
-              "currentName": "/tw/software/iiappcbe",
-              "children": [
-                {
-                  "name": "index",
-                  "currentName": "/tw/software/iiappcbe/index",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "mes",
-              "currentName": "/tw/software/mes",
-              "children": [
-                {
-                  "name": "mes.html",
-                  "currentName": "/tw/software/mes/mes.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "PLM",
-              "currentName": "/tw/software/PLM",
-              "children": [
-                {
-                  "name": "index",
-                  "currentName": "/tw/software/PLM/index",
+                  "name": "...",
+                  "currentName": "/tw/software/.../...",
                   "children": []
                 }
               ]
@@ -1620,11 +585,6 @@
           "currentName": "/tw/activity",
           "children": [
             {
-              "name": "2116.html",
-              "currentName": "/tw/activity/2116.html",
-              "children": []
-            },
-            {
               "name": "...",
               "currentName": "/tw/activity/...",
               "children": []
@@ -1641,23 +601,8 @@
           "currentName": "/tw/activity_report",
           "children": [
             {
-              "name": "1281.html",
-              "currentName": "/tw/activity_report/1281.html",
-              "children": []
-            },
-            {
-              "name": "1320.html",
-              "currentName": "/tw/activity_report/1320.html",
-              "children": []
-            },
-            {
-              "name": "2056.html",
-              "currentName": "/tw/activity_report/2056.html",
-              "children": []
-            },
-            {
-              "name": "etc.",
-              "currentName": "/tw/activity_report/etc.",
+              "name": "...",
+              "currentName": "/tw/activity_report/...",
               "children": []
             }
           ]
@@ -1667,257 +612,16 @@
           "currentName": "/tw/blog",
           "children": [
             {
-              "name": "1",
-              "currentName": "/tw/blog/1",
+              "name": "1~10",
+              "currentName": "/tw/blog/1~10",
               "children": [
                 {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/1/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/1/index",
+                  "name": "...",
+                  "currentName": "/tw/blog/1~10/...",
                   "children": [
                     {
-                      "name": "2054.html",
-                      "currentName": "/tw/blog/1/index/2054.html",
-                      "children": []
-                    },
-                    {
-                      "name": "951.html",
-                      "currentName": "/tw/blog/1/index/951.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/1/index/etc.",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "10",
-              "currentName": "/tw/blog/10",
-              "children": [
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/10/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/10/index",
-                  "children": [
-                    {
-                      "name": "3276.html",
-                      "currentName": "/tw/blog/10/index/3276.html",
-                      "children": []
-                    },
-                    {
-                      "name": "3277.html",
-                      "currentName": "/tw/blog/10/index/3277.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/10/index/etc.",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "2",
-              "currentName": "/tw/blog/2",
-              "children": [
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/2/index",
-                  "children": [
-                    {
-                      "name": "1274.html",
-                      "currentName": "/tw/blog/2/index/1274.html",
-                      "children": []
-                    },
-                    {
-                      "name": "2034.html",
-                      "currentName": "/tw/blog/2/index/2034.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/2/index/etc.",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "3",
-              "currentName": "/tw/blog/3",
-              "children": [
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/3/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/3/index",
-                  "children": [
-                    {
-                      "name": "1175.html",
-                      "currentName": "/tw/blog/3/index/1175.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/3/index/etc.",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "4",
-              "currentName": "/tw/blog/4",
-              "children": [
-                {
-                  "name": "2016.html",
-                  "currentName": "/tw/blog/4/2016.html",
-                  "children": []
-                },
-                {
-                  "name": "etc.",
-                  "currentName": "/tw/blog/4/etc.",
-                  "children": []
-                },
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/4/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/4/index",
-                  "children": [
-                    {
-                      "name": "943.html",
-                      "currentName": "/tw/blog/4/index/943.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/4/index/etc.",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "5",
-              "currentName": "/tw/blog/5",
-              "children": [
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/5/index",
-                  "children": [
-                    {
-                      "name": "2269.html",
-                      "currentName": "/tw/blog/5/index/2269.html",
-                      "children": []
-                    },
-                    {
-                      "name": "2311.html",
-                      "currentName": "/tw/blog/5/index/2311.html",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "7",
-              "currentName": "/tw/blog/7",
-              "children": [
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/7/index",
-                  "children": [
-                    {
-                      "name": "2801.html",
-                      "currentName": "/tw/blog/7/index/2801.html",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "8",
-              "currentName": "/tw/blog/8",
-              "children": [
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/8/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/8/index",
-                  "children": [
-                    {
-                      "name": "3246.html",
-                      "currentName": "/tw/blog/8/index/3246.html",
-                      "children": []
-                    },
-                    {
-                      "name": "3247.html",
-                      "currentName": "/tw/blog/8/index/3247.html",
-                      "children": []
-                    },
-                    {
-                      "name": "3248.html",
-                      "currentName": "/tw/blog/8/index/3248.html",
-                      "children": []
-                    },
-                    {
-                      "name": "3266.html",
-                      "currentName": "/tw/blog/8/index/3266.html",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "9",
-              "currentName": "/tw/blog/9",
-              "children": [
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/blog/9/index.html",
-                  "children": []
-                },
-                {
-                  "name": "index",
-                  "currentName": "/tw/blog/9/index",
-                  "children": [
-                    {
-                      "name": "3207.html",
-                      "currentName": "/tw/blog/9/index/3207.html",
-                      "children": []
-                    },
-                    {
-                      "name": "etc.",
-                      "currentName": "/tw/blog/9/index/etc.",
+                      "name": "...",
+                      "currentName": "/tw/blog/1~10/.../...",
                       "children": []
                     }
                   ]
@@ -1946,13 +650,8 @@
           "currentName": "/tw/course",
           "children": [
             {
-              "name": "1732.html",
-              "currentName": "/tw/course/1732.html",
-              "children": []
-            },
-            {
-              "name": "etc.",
-              "currentName": "/tw/course/etc.",
+              "name": "...",
+              "currentName": "/tw/course/...",
               "children": []
             }
           ]
@@ -1982,13 +681,8 @@
               "children": []
             },
             {
-              "name": "690.html",
-              "currentName": "/tw/news/690.html",
-              "children": []
-            },
-            {
-              "name": "etc.",
-              "currentName": "/tw/news/etc.",
+              "name": "...",
+              "currentName": "/tw/news/...",
               "children": []
             }
           ]
@@ -2003,28 +697,8 @@
               "children": []
             },
             {
-              "name": "1061.html",
-              "currentName": "/tw/page/1061.html",
-              "children": []
-            },
-            {
-              "name": "1065.html",
-              "currentName": "/tw/page/1065.html",
-              "children": []
-            },
-            {
-              "name": "1066.html",
-              "currentName": "/tw/page/1066.html",
-              "children": []
-            },
-            {
-              "name": "1067.html",
-              "currentName": "/tw/page/1067.html",
-              "children": []
-            },
-            {
-              "name": "2079.html",
-              "currentName": "/tw/page/2079.html",
+              "name": "...",
+              "currentName": "/tw/page/...",
               "children": []
             }
           ]
@@ -2050,8 +724,8 @@
           "children": []
         },
         {
-          "name": "etc.",
-          "currentName": "/tw/etc.",
+          "name": "...",
+          "currentName": "/tw/...",
           "children": []
         },
         {
@@ -2064,28 +738,8 @@
               "children": []
             },
             {
-              "name": "ListDetail5947.html",
-              "currentName": "/tw/solution/ListDetail5947.html",
-              "children": []
-            },
-            {
-              "name": "ListDetail5964",
-              "currentName": "/tw/solution/ListDetail5964",
-              "children": []
-            },
-            {
-              "name": "ListDetail5967.html",
-              "currentName": "/tw/solution/ListDetail5967.html",
-              "children": []
-            },
-            {
-              "name": "ListDetail5982.html",
-              "currentName": "/tw/solution/ListDetail5982.html",
-              "children": []
-            },
-            {
-              "name": "ListDetail5983.html",
-              "currentName": "/tw/solution/ListDetail5983.html",
+              "name": "...",
+              "currentName": "/tw/solution/...",
               "children": []
             }
           ]
@@ -2100,39 +754,12 @@
           "currentName": "/tw/user",
           "children": [
             {
-              "name": "favorite",
-              "currentName": "/tw/user/favorite",
+              "name": "...",
+              "currentName": "/tw/user/...",
               "children": [
                 {
-                  "name": "add.html",
-                  "currentName": "/tw/user/favorite/add.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "login",
-              "currentName": "/tw/user/login",
-              "children": [
-                {
-                  "name": "findpassword.html",
-                  "currentName": "/tw/user/login/findpassword.html",
-                  "children": []
-                },
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/user/login/index.html",
-                  "children": []
-                }
-              ]
-            },
-            {
-              "name": "register",
-              "currentName": "/tw/user/register",
-              "children": [
-                {
-                  "name": "index.html",
-                  "currentName": "/tw/user/register/index.html",
+                  "name": "...",
+                  "currentName": "/tw/user/.../...",
                   "children": []
                 }
               ]
@@ -2154,28 +781,8 @@
           "currentName": "/tw/zlsq",
           "children": [
             {
-              "name": "1229.html",
-              "currentName": "/tw/zlsq/1229.html",
-              "children": []
-            },
-            {
-              "name": "1241.html",
-              "currentName": "/tw/zlsq/1241.html",
-              "children": []
-            },
-            {
-              "name": "1242.html",
-              "currentName": "/tw/zlsq/1242.html",
-              "children": []
-            },
-            {
-              "name": "1245.html",
-              "currentName": "/tw/zlsq/1245.html",
-              "children": []
-            },
-            {
-              "name": "1246.html",
-              "currentName": "/tw/zlsq/1246.html",
+              "name": "...",
+              "currentName": "/tw/zlsq/...",
               "children": []
             }
           ]
