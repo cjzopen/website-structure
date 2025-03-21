@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        .node circle { fill: steelblue; stroke: #fff; stroke-width: 2px; transition: opacity 0.3s; }
+        .node text { font: 14px sans-serif; fill: black; transition: opacity 0.3s, fill 0.3s; }
+        .link { fill: none; stroke: #ccc; stroke-width: 2px; transition: opacity 0.3s; }
+    </style>
+</head>
+<body>
+    <svg width="2800" height="2000"></svg>
+    <script>
+        d3.json("site_structure.json").then(treeData => {
+            const width = 2800, height = 2000;
+            const svg = d3.select("svg"),
+                  g = svg.append("g").attr("transform", "translate(40,40)");
+
+            const treeLayout = d3.tree()
+                .size([width - 80, height - 80])
+                .separation((a, b) => a.parent === b.parent ? 3 : 5);
+
+            const root = d3.hierarchy(treeData);
+            treeLayout(root);
+
+            const links = g.selectAll(".link")
+                .data(root.links())
+                .enter().append("path")
+                .attr("class", "link")
+                .attr("stroke", "#ccc")
+                .attr("stroke-width", 2)
+                .attr("d", d => `
+                    M${d.source.x},${d.source.y}
+                    C${d.source.x},${(d.source.y + d.target.y) / 2} 
+                     ${d.target.x},${(d.source.y + d.target.y) / 2} 
+                     ${d.target.x},${d.target.y}
+                `);
+
+            const nodes = g.selectAll(".node")
+                .data(root.descendants())
+                .enter().append("g")
+                .attr("class", "node")
+                .attr("transform", d => `translate(${d.x},${d.y})`)
+                .on("mouseover", function(event, d) {
+                    const parentNodes = findParentNodes(d); // 找到所有父節點
+                    const parentLinks = findParentLinks(d); // 找到所有父節點的連線
+
+                    // 降低所有節點與連線的不透明度
+                    nodes.style("opacity", 0.1);
+                    links.style("opacity", 0.1);
+                    nodes.select("text").style("fill", "#aaa"); // 讓所有不相關的節點變灰
+
+                    // 讓當前節點、父節點與相關連線變亮
+                    d3.select(this).style("opacity", 1);
+                    d3.select(this).select("text").style("fill", "#2858aa"); // 變更 hover 節點文字顏色
+                    parentNodes.forEach(node => {
+                        d3.select(node).style("opacity", 1);
+                        d3.select(node).select("text").style("fill", "black"); // 父節點維持黑色
+                    });
+                    parentLinks.forEach(link => d3.select(link).style("opacity", 1));
+                })
+                .on("mouseout", function() {
+                    nodes.style("opacity", 1);
+                    links.style("opacity", 1);
+                    nodes.select("text").style("fill", "black"); // 恢復文字顏色
+                });
+
+            nodes.append("circle").attr("r", 6); // 繪製節點
+
+            nodes.append("text")
+                .attr("dy", -12)
+                .text(d => d.data.name);
+
+            // 加上 title，滑鼠懸停時顯示 URL
+            nodes.append("title")
+                .text(d => d.data.url);
+
+            // 找到所有的父節點
+            function findParentNodes(d) {
+                let parentNodes = [];
+                while (d.parent) {
+                    parentNodes.push(d3.selectAll(".node").filter(n => n === d.parent).node());
+                    d = d.parent;
+                }
+                return parentNodes;
+            }
+
+            // 找到所有父節點的連線
+            function findParentLinks(d) {
+                let parentLinks = [];
+                while (d.parent) {
+                    parentLinks.push(d3.selectAll(".link").filter(l => l.source === d.parent && l.target === d).node());
+                    d = d.parent;
+                }
+                return parentLinks;
+            }
+        });
+    </script>
+</body>
+</html>
