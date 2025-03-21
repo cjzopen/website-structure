@@ -3,7 +3,7 @@ use python import csv to JSON, then use D3.js draw structure with JSON
 
 # start
 * url.csv，Column name is "URL"
-* 看要 `pip` 什麼python套件
+* 看要 `pip` 什麼python套件，並處理親子層級關係
 * `python draw.py` 產生 JSON
 * 開啟 draw.html 頁面查看結果
 
